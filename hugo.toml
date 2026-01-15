@@ -76,10 +76,10 @@ style = "tango"
 # guessSyntax = true
 
 # Comment out if you don't want the "print entire section" link enabled.
-# [outputs]
-# section = ["HTML", "RSS"] # "print",
-# home = ['html', 'rss']
-# page = ['html']
+[outputs]
+section = ["HTML", "RSS"] # "print",
+home = ['html', 'rss']
+page = ['html']
 
 # Everything below this are Site Params
 [params]
