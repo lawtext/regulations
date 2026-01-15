@@ -32,6 +32,6 @@ description: "法律法规在线阅读"
 
 {{% blocks/section %}}
 
-{{% alert title="声明" color=warning %}} 本站数据采集自官方网站公开数据（包含失效和已修改的法律法规文本）。文本如有不一致，请以法律规定的标准文本为准。 {{% /alert %}}
+{{% alert title="声明" color=warning %}} 本站数据采集自官方网站公开数据（地方法规仅包括生效和最新文本）。本站文本仅供参考，请以法律规定的标准文本为准。 {{% /alert %}}
 
 {{% /blocks/section %}}
