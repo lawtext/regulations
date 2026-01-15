@@ -35,15 +35,15 @@ path = "github.com/google/docsy"
 disable = false
 
 # You can add your own taxonomies
-[taxonomies]
-tag = "tags"
-category = "categories"
-year = "years"
-keyword = "keywords"
+# [taxonomies]
+# tag = "tags"
+# category = "categories"
+# year = "years"
+# keyword = "keywords"
 
 # Configure how URLs look like per section.
-[permalinks]
-blog = "/:section/:year/:month/:day/:slug/"
+# [permalinks]
+# blog = "/:section/:year/:month/:day/:slug/"
 
 # Image processing configuration.
 [imaging]
@@ -76,10 +76,10 @@ style = "tango"
 # guessSyntax = true
 
 # Comment out if you don't want the "print entire section" link enabled.
-[outputs]
-section = ["HTML", "RSS"] # "print",
-home = ['html', 'rss']
-page = ['html']
+# [outputs]
+# section = ["HTML", "RSS"] # "print",
+# home = ['html', 'rss']
+# page = ['html']
 
 # Everything below this are Site Params
 [params]
@@ -109,10 +109,10 @@ reading_speed = 400
 # offlineSearch = true
 # offlineSearchSummaryLength = 200
 # offlineSearchMaxResults = 25
-[params.search.algolia]
-indexName = "algolia_site_articles"
-appId = "3X0X6KF7SS"
-apiKey = "cd70b06ccd99eeeb94ebca076c1c0a98"
+# [params.search.algolia]
+# indexName = "algolia_site_articles"
+# appId = "3X0X6KF7SS"
+# apiKey = "cd70b06ccd99eeeb94ebca076c1c0a98"
 
 
 [params.copyright]
@@ -135,10 +135,10 @@ footer_about_enable = false
 sidebar_menu_truncate=2000
 
 # navbar_logo = "/img/logo.png"
-[params.ui.feedback]
-enable = true
-yes = '感谢支持，如有新需求请访问 🔗<a href="https://github.com/qundao/law-book/issues/new">提交Issue</a>。'
-no = '很遗憾，如有问题请访问 🔗<a href="https://github.com/qundao/law-book/issues/new">提交Issue</a>。'
+# [params.ui.feedback]
+# enable = true
+# yes = '感谢支持，如有新需求请访问 🔗<a href="https://github.com/qundao/law-book/issues/new">提交Issue</a>。'
+# no = '很遗憾，如有问题请访问 🔗<a href="https://github.com/qundao/law-book/issues/new">提交Issue</a>。'
 
 [params.ui.readingtime]
 enable = true
@@ -146,22 +146,22 @@ enable = true
 [params.page]
 pageSize = 50 # list页面每页项数
 
-[params.taxonomy]
-taxonomyCloud = ["tags", "categories", "years", "keywords"]
-taxonomyCollapse = true
-# taxonomyPageHeader = []
+# [params.taxonomy]
+# taxonomyCloud = ["tags", "categories", "years", "keywords"]
+# taxonomyCollapse = true
+# # taxonomyPageHeader = []
 
-[params.taxonomy.taxonomyCloudTitleMap]
-tags = "【标签】"
-categories = "【分类】"
-years = "【年份】"
-keywords = "【关键词】"
+# [params.taxonomy.taxonomyCloudTitleMap]
+# tags = "【标签】"
+# categories = "【分类】"
+# years = "【年份】"
+# keywords = "【关键词】"
 
-[params.taxonomy.taxonomyAliasMap]
-year = "年份"
-years = "年份"
-keyword = "关键词"
-keywords = "关键词"
+# [params.taxonomy.taxonomyAliasMap]
+# year = "年份"
+# years = "年份"
+# keyword = "关键词"
+# keywords = "关键词"
 
 # [params.links]
 # # End user relevant links. These will show up on left side of footer and in the community page if you have one.
@@ -214,6 +214,6 @@ keywords = "关键词"
     url = 'https://lawtext.github.io/'
     pre = '<i class="fa-solid fa-scale-balanced"></i>'
 
-[services]
-[services.disqus]
-shortname = 'law'
+# [services]
+# [services.disqus]
+# shortname = 'law'
