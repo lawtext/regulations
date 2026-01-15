@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 10, pre: "<i class='fa-solid fa-b'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>北京</strong>统计：共有312件，其中有效共182件</summary>
+<summary><strong>北京</strong>统计：共有195件，其中有效共182件</summary>
 {{% pageinfo %}}
 
 **北京**说明：
@@ -16,13 +16,10 @@ menu: {main: {parent: 华北, weight: 10, pre: "<i class='fa-solid fa-b'></i>" }
 
 ---
 
-**北京** 相关文本共有312件，其中：
+**北京** 相关文本共有195件，其中：
 
-- 尚未生效: 3
 - 有效: 182
-- 已修改: 89
-- 已废止: 24
-- 未知: 14
+- 未知: 13
 
 {{% /pageinfo %}}
 </details>

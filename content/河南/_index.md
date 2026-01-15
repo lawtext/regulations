@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 25, pre: "<i class='fa-solid fa-h'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>河南</strong>统计：共有900件，其中有效共599件</summary>
+<summary><strong>河南</strong>统计：共有634件，其中有效共599件</summary>
 {{% pageinfo %}}
 
 **河南**说明：
@@ -16,12 +16,9 @@ menu: {main: {parent: 华南, weight: 25, pre: "<i class='fa-solid fa-h'></i>" }
 
 ---
 
-**河南** 相关文本共有900件，其中：
+**河南** 相关文本共有634件，其中：
 
-- 尚未生效: 1
 - 有效: 599
-- 已修改: 184
-- 已废止: 81
 - 未知: 35
 
 {{% /pageinfo %}}

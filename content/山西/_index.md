@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 13, pre: "<i class='fa-solid fa-s'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>山西</strong>统计：共有873件，其中有效共571件</summary>
+<summary><strong>山西</strong>统计：共有618件，其中有效共571件</summary>
 {{% pageinfo %}}
 
 **山西**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华北, weight: 13, pre: "<i class='fa-solid fa-s'></i>" }
 
 ---
 
-**山西** 相关文本共有873件，其中：
+**山西** 相关文本共有618件，其中：
 
 - 有效: 571
-- 已修改: 171
-- 已废止: 62
-- 未知: 69
+- 未知: 47
 
 {{% /pageinfo %}}
 </details>

@@ -7,7 +7,7 @@ menu: {main: {parent: 东北, weight: 16, pre: "<i class='fa-solid fa-j'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>吉林</strong>统计：共有991件，其中有效共543件</summary>
+<summary><strong>吉林</strong>统计：共有589件，其中有效共543件</summary>
 {{% pageinfo %}}
 
 **吉林**说明：
@@ -16,13 +16,10 @@ menu: {main: {parent: 东北, weight: 16, pre: "<i class='fa-solid fa-j'></i>" }
 
 ---
 
-**吉林** 相关文本共有991件，其中：
+**吉林** 相关文本共有589件，其中：
 
-- 尚未生效: 1
 - 有效: 543
-- 已修改: 325
-- 已废止: 74
-- 未知: 48
+- 未知: 46
 
 {{% /pageinfo %}}
 </details>

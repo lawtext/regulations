@@ -7,7 +7,7 @@ menu: {main: {parent: 西南, weight: 31, pre: "<i class='fa-solid fa-c'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>重庆</strong>统计：共有442件，其中有效共251件</summary>
+<summary><strong>重庆</strong>统计：共有268件，其中有效共251件</summary>
 {{% pageinfo %}}
 
 **重庆**说明：
@@ -16,13 +16,10 @@ menu: {main: {parent: 西南, weight: 31, pre: "<i class='fa-solid fa-c'></i>" }
 
 ---
 
-**重庆** 相关文本共有442件，其中：
+**重庆** 相关文本共有268件，其中：
 
-- 尚未生效: 3
 - 有效: 251
-- 已修改: 135
-- 已废止: 35
-- 未知: 18
+- 未知: 17
 
 {{% /pageinfo %}}
 </details>

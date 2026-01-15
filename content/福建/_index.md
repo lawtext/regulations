@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 22, pre: "<i class='fa-solid fa-f'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>福建</strong>统计：共有841件，其中有效共593件</summary>
+<summary><strong>福建</strong>统计：共有655件，其中有效共593件</summary>
 {{% pageinfo %}}
 
 **福建**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华东, weight: 22, pre: "<i class='fa-solid fa-f'></i>" }
 
 ---
 
-**福建** 相关文本共有841件，其中：
+**福建** 相关文本共有655件，其中：
 
 - 有效: 593
-- 已修改: 117
-- 已废止: 68
-- 未知: 63
+- 未知: 62
 
 {{% /pageinfo %}}
 </details>

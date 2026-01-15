@@ -7,7 +7,7 @@ menu: {main: {parent: 西北, weight: 39, pre: "<i class='fa-solid fa-n'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>宁夏</strong>统计：共有542件，其中有效共302件</summary>
+<summary><strong>宁夏</strong>统计：共有342件，其中有效共302件</summary>
 {{% pageinfo %}}
 
 **宁夏**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 西北, weight: 39, pre: "<i class='fa-solid fa-n'></i>" }
 
 ---
 
-**宁夏** 相关文本共有542件，其中：
+**宁夏** 相关文本共有342件，其中：
 
 - 有效: 302
-- 已修改: 164
-- 已废止: 36
 - 未知: 40
 
 {{% /pageinfo %}}

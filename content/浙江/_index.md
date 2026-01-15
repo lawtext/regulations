@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 20, pre: "<i class='fa-solid fa-z'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>浙江</strong>统计：共有1029件，其中有效共664件</summary>
+<summary><strong>浙江</strong>统计：共有719件，其中有效共664件</summary>
 {{% pageinfo %}}
 
 **浙江**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 华东, weight: 20, pre: "<i class='fa-solid fa-z'></i>" }
 
 ---
 
-**浙江** 相关文本共有1029件，其中：
+**浙江** 相关文本共有719件，其中：
 
 - 有效: 664
-- 已修改: 240
-- 已废止: 70
 - 未知: 55
 
 {{% /pageinfo %}}

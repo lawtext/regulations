@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 24, pre: "<i class='fa-solid fa-s'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>山东</strong>统计：共有1238件，其中有效共784件</summary>
+<summary><strong>山东</strong>统计：共有851件，其中有效共784件</summary>
 {{% pageinfo %}}
 
 **山东**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 华东, weight: 24, pre: "<i class='fa-solid fa-s'></i>" }
 
 ---
 
-**山东** 相关文本共有1238件，其中：
+**山东** 相关文本共有851件，其中：
 
 - 有效: 784
-- 已修改: 250
-- 已废止: 137
 - 未知: 67
 
 {{% /pageinfo %}}

@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 27, pre: "<i class='fa-solid fa-h'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>湖南</strong>统计：共有795件，其中有效共517件</summary>
+<summary><strong>湖南</strong>统计：共有549件，其中有效共517件</summary>
 {{% pageinfo %}}
 
 **湖南**说明：
@@ -16,12 +16,9 @@ menu: {main: {parent: 华南, weight: 27, pre: "<i class='fa-solid fa-h'></i>" }
 
 ---
 
-**湖南** 相关文本共有795件，其中：
+**湖南** 相关文本共有549件，其中：
 
-- 尚未生效: 1
 - 有效: 517
-- 已修改: 201
-- 已废止: 44
 - 未知: 32
 
 {{% /pageinfo %}}

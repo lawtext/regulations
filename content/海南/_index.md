@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 30, pre: "<i class='fa-solid fa-h'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>海南</strong>统计：共有614件，其中有效共389件</summary>
+<summary><strong>海南</strong>统计：共有431件，其中有效共389件</summary>
 {{% pageinfo %}}
 
 **海南**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华南, weight: 30, pre: "<i class='fa-solid fa-h'></i>" }
 
 ---
 
-**海南** 相关文本共有614件，其中：
+**海南** 相关文本共有431件，其中：
 
 - 有效: 389
-- 已修改: 120
-- 已废止: 61
-- 未知: 44
+- 未知: 42
 
 {{% /pageinfo %}}
 </details>

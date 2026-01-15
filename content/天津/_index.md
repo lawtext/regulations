@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 11, pre: "<i class='fa-solid fa-t'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>天津</strong>统计：共有436件，其中有效共251件</summary>
+<summary><strong>天津</strong>统计：共有268件，其中有效共251件</summary>
 {{% pageinfo %}}
 
 **天津**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华北, weight: 11, pre: "<i class='fa-solid fa-t'></i>" }
 
 ---
 
-**天津** 相关文本共有436件，其中：
+**天津** 相关文本共有268件，其中：
 
 - 有效: 251
-- 已修改: 130
-- 已废止: 37
-- 未知: 18
+- 未知: 17
 
 {{% /pageinfo %}}
 </details>

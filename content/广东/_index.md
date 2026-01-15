@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 28, pre: "<i class='fa-solid fa-g'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>广东</strong>统计：共有1793件，其中有效共1025件</summary>
+<summary><strong>广东</strong>统计：共有1135件，其中有效共1025件</summary>
 {{% pageinfo %}}
 
 **广东**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华南, weight: 28, pre: "<i class='fa-solid fa-g'></i>" }
 
 ---
 
-**广东** 相关文本共有1793件，其中：
+**广东** 相关文本共有1135件，其中：
 
 - 有效: 1025
-- 已修改: 516
-- 已废止: 136
-- 未知: 116
+- 未知: 110
 
 {{% /pageinfo %}}
 </details>

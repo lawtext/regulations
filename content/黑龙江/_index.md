@@ -7,7 +7,7 @@ menu: {main: {parent: 东北, weight: 17, pre: "<i class='fa-solid fa-h'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>黑龙江</strong>统计：共有800件，其中有效共422件</summary>
+<summary><strong>黑龙江</strong>统计：共有457件，其中有效共422件</summary>
 {{% pageinfo %}}
 
 **黑龙江**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 东北, weight: 17, pre: "<i class='fa-solid fa-h'></i>" }
 
 ---
 
-**黑龙江** 相关文本共有800件，其中：
+**黑龙江** 相关文本共有457件，其中：
 
 - 有效: 422
-- 已修改: 242
-- 已废止: 101
 - 未知: 35
 
 {{% /pageinfo %}}

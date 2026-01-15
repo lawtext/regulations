@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 29, pre: "<i class='fa-solid fa-g'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>广西</strong>统计：共有698件，其中有效共494件</summary>
+<summary><strong>广西</strong>统计：共有516件，其中有效共494件</summary>
 {{% pageinfo %}}
 
 **广西**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 华南, weight: 29, pre: "<i class='fa-solid fa-g'></i>" }
 
 ---
 
-**广西** 相关文本共有698件，其中：
+**广西** 相关文本共有516件，其中：
 
 - 有效: 494
-- 已修改: 159
-- 已废止: 23
 - 未知: 22
 
 {{% /pageinfo %}}

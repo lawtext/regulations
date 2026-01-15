@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 18, pre: "<i class='fa-solid fa-s'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>上海</strong>统计：共有494件，其中有效共266件</summary>
+<summary><strong>上海</strong>统计：共有299件，其中有效共266件</summary>
 {{% pageinfo %}}
 
 **上海**说明：
@@ -16,11 +16,9 @@ menu: {main: {parent: 华东, weight: 18, pre: "<i class='fa-solid fa-s'></i>" }
 
 ---
 
-**上海** 相关文本共有494件，其中：
+**上海** 相关文本共有299件，其中：
 
 - 有效: 266
-- 已修改: 167
-- 已废止: 28
 - 未知: 33
 
 {{% /pageinfo %}}

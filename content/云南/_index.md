@@ -7,7 +7,7 @@ menu: {main: {parent: 西南, weight: 34, pre: "<i class='fa-solid fa-y'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>云南</strong>统计：共有998件，其中有效共639件</summary>
+<summary><strong>云南</strong>统计：共有691件，其中有效共639件</summary>
 {{% pageinfo %}}
 
 **云南**说明：
@@ -16,13 +16,10 @@ menu: {main: {parent: 西南, weight: 34, pre: "<i class='fa-solid fa-y'></i>" }
 
 ---
 
-**云南** 相关文本共有998件，其中：
+**云南** 相关文本共有691件，其中：
 
-- 尚未生效: 2
 - 有效: 639
-- 已修改: 206
-- 已废止: 93
-- 未知: 58
+- 未知: 52
 
 {{% /pageinfo %}}
 </details>

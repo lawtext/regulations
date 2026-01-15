@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 14, pre: "<i class='fa-solid fa-n'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>内蒙古</strong>统计：共有960件，其中有效共435件</summary>
+<summary><strong>内蒙古</strong>统计：共有556件，其中有效共435件</summary>
 {{% pageinfo %}}
 
 **内蒙古**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 华北, weight: 14, pre: "<i class='fa-solid fa-n'></i>" }
 
 ---
 
-**内蒙古** 相关文本共有960件，其中：
+**内蒙古** 相关文本共有556件，其中：
 
 - 有效: 435
-- 已修改: 283
-- 已废止: 113
-- 未知: 129
+- 未知: 121
 
 {{% /pageinfo %}}
 </details>

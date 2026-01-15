@@ -7,7 +7,7 @@ menu: {main: {parent: 西南, weight: 33, pre: "<i class='fa-solid fa-g'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>贵州</strong>统计：共有919件，其中有效共486件</summary>
+<summary><strong>贵州</strong>统计：共有533件，其中有效共486件</summary>
 {{% pageinfo %}}
 
 **贵州**说明：
@@ -16,12 +16,10 @@ menu: {main: {parent: 西南, weight: 33, pre: "<i class='fa-solid fa-g'></i>" }
 
 ---
 
-**贵州** 相关文本共有919件，其中：
+**贵州** 相关文本共有533件，其中：
 
 - 有效: 486
-- 已修改: 305
-- 已废止: 80
-- 未知: 48
+- 未知: 47
 
 {{% /pageinfo %}}
 </details>
