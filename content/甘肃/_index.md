@@ -3,7 +3,7 @@ title: 甘肃
 linkTitle: 甘肃
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西北, weight: 37 }}
+menu: {main: {parent: 西北, weight: 37, pre: "<i class='fa-solid fa-g'></i>" }}
 ---
 
 <details open class="doc-details">

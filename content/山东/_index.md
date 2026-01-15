@@ -3,7 +3,7 @@ title: 山东
 linkTitle: 山东
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华东, weight: 24 }}
+menu: {main: {parent: 华东, weight: 24, pre: "<i class='fa-solid fa-s'></i>" }}
 ---
 
 <details open class="doc-details">

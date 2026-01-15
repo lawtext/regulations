@@ -3,7 +3,7 @@ title: 宁夏
 linkTitle: 宁夏
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西北, weight: 39 }}
+menu: {main: {parent: 西北, weight: 39, pre: "<i class='fa-solid fa-n'></i>" }}
 ---
 
 <details open class="doc-details">

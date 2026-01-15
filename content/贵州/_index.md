@@ -3,7 +3,7 @@ title: 贵州
 linkTitle: 贵州
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西南, weight: 33 }}
+menu: {main: {parent: 西南, weight: 33, pre: "<i class='fa-solid fa-g'></i>" }}
 ---
 
 <details open class="doc-details">

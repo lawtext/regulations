@@ -3,7 +3,7 @@ title: 西藏
 linkTitle: 西藏
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西南, weight: 35 }}
+menu: {main: {parent: 西南, weight: 35, pre: "<i class='fa-solid fa-x'></i>" }}
 ---
 
 <details open class="doc-details">

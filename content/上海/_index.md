@@ -3,7 +3,7 @@ title: 上海
 linkTitle: 上海
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华东, weight: 18 }}
+menu: {main: {parent: 华东, weight: 18, pre: "<i class='fa-solid fa-s'></i>" }}
 ---
 
 <details open class="doc-details">

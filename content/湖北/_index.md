@@ -3,7 +3,7 @@ title: 湖北
 linkTitle: 湖北
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华南, weight: 26 }}
+menu: {main: {parent: 华南, weight: 26, pre: "<i class='fa-solid fa-h'></i>" }}
 ---
 
 <details open class="doc-details">
