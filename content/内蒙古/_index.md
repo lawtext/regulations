@@ -1,0 +1,27 @@
+---
+title: 内蒙古
+linkTitle: 内蒙古
+type: "docs"
+cascade: { type: "docs" }
+menu: {main: {parent: 华北, weight: 14 }}
+---
+
+<details open class="doc-details">
+<summary><strong>内蒙古</strong>统计：共有960件，其中有效共435件</summary>
+{{% pageinfo %}}
+
+**内蒙古**说明：
+
+政府官网站：<https://www.nmg.gov.cn/>
+
+---
+
+**内蒙古** 相关文本共有960件，其中：
+
+- 有效: 435
+- 已修改: 283
+- 已废止: 113
+- 未知: 129
+
+{{% /pageinfo %}}
+</details>
