@@ -3,7 +3,7 @@ title: 河北
 linkTitle: 河北
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华北, weight: 12, pre: "<i class='fa-solid fa-h'></i>" }}
+menu: {main: {parent: 华北, weight: 12, pre: "<i class='mi mi-hebei'></i>" }}
 ---
 
 <details open class="doc-details">

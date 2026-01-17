@@ -3,7 +3,7 @@ title: 青海
 linkTitle: 青海
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西北, weight: 38, pre: "<i class='fa-solid fa-q'></i>" }}
+menu: {main: {parent: 西北, weight: 38, pre: "<i class='mi mi-qinghai'></i>" }}
 ---
 
 <details open class="doc-details">

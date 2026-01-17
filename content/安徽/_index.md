@@ -3,7 +3,7 @@ title: 安徽
 linkTitle: 安徽
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华东, weight: 21, pre: "<i class='fa-solid fa-a'></i>" }}
+menu: {main: {parent: 华东, weight: 21, pre: "<i class='mi mi-anhui'></i>" }}
 ---
 
 <details open class="doc-details">

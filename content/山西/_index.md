@@ -3,7 +3,7 @@ title: 山西
 linkTitle: 山西
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华北, weight: 13, pre: "<i class='fa-solid fa-s'></i>" }}
+menu: {main: {parent: 华北, weight: 13, pre: "<i class='mi mi-shanxi'></i>" }}
 ---
 
 <details open class="doc-details">

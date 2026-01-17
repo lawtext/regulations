@@ -3,7 +3,7 @@ title: 云南
 linkTitle: 云南
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西南, weight: 34, pre: "<i class='fa-solid fa-y'></i>" }}
+menu: {main: {parent: 西南, weight: 34, pre: "<i class='mi mi-yunnan'></i>" }}
 ---
 
 <details open class="doc-details">

@@ -3,7 +3,7 @@ title: 辽宁
 linkTitle: 辽宁
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 东北, weight: 15, pre: "<i class='fa-solid fa-l'></i>" }}
+menu: {main: {parent: 东北, weight: 15, pre: "<i class='mi mi-liaoning'></i>" }}
 ---
 
 <details open class="doc-details">

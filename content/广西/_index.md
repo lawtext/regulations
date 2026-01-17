@@ -3,7 +3,7 @@ title: 广西
 linkTitle: 广西
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华南, weight: 29, pre: "<i class='fa-solid fa-g'></i>" }}
+menu: {main: {parent: 华南, weight: 29, pre: "<i class='mi mi-guangxi'></i>" }}
 ---
 
 <details open class="doc-details">

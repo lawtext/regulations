@@ -3,7 +3,7 @@ title: 天津
 linkTitle: 天津
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华北, weight: 11, pre: "<i class='fa-solid fa-t'></i>" }}
+menu: {main: {parent: 华北, weight: 11, pre: "<i class='mi mi-tianjin'></i>" }}
 ---
 
 <details open class="doc-details">

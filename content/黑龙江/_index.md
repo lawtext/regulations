@@ -3,7 +3,7 @@ title: 黑龙江
 linkTitle: 黑龙江
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 东北, weight: 17, pre: "<i class='fa-solid fa-h'></i>" }}
+menu: {main: {parent: 东北, weight: 17, pre: "<i class='mi mi-heilongjiang'></i>" }}
 ---
 
 <details open class="doc-details">

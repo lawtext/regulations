@@ -3,7 +3,7 @@ title: 吉林
 linkTitle: 吉林
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 东北, weight: 16, pre: "<i class='fa-solid fa-j'></i>" }}
+menu: {main: {parent: 东北, weight: 16, pre: "<i class='mi mi-jilin'></i>" }}
 ---
 
 <details open class="doc-details">

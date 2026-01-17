@@ -4,9 +4,11 @@ Add styles or override variables from the theme here.
 
 */
 
+@import 'icon_fonts';
+
 /* 主要和次要配色 */
-$primary: #c32136;
-$secondary: #8c4356;
+$primary: #015293;
+$secondary: #8ebee5;
 $td-enable-google-fonts: true;
 
 /* 字体 */

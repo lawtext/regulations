@@ -1,0 +1,66 @@
+
+@font-face {
+  font-family: "font-mapicons";
+  src: url('../fonts/mapicons.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.mi {
+  font-family: "font-mapicons" !important;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.mi-cn1:before { content: "\e10A";} /* 全国 */
+.mi-cn2:before { content: "\e10B";} /* 全国 */
+.mi-diqu-huabei:before { content: "\e101";} /* 华北 */
+.mi-diqu-dongbei:before { content: "\e102";} /* 东北 */
+.mi-diqu-huadong:before { content: "\e103";} /* 华东 */
+.mi-diqu-huazhong:before { content: "\e107";} /* 华中 */
+.mi-diqu-huanan:before { content: "\e108";} /* 华南 */
+.mi-diqu-zhongnan:before { content: "\e104";} /* 中南 */
+.mi-diqu-xibei:before { content: "\e105";} /* 西北 */
+.mi-diqu-xinan:before { content: "\e106";} /* 西南 */
+
+.mi-beijing:before { content: "\e111";} /* 北京 */
+.mi-tianjin:before { content: "\e112";} /* 天津 */
+.mi-hebei:before { content: "\e113";} /* 河北 */
+.mi-shanxi:before { content: "\e114";} /* 山西 */
+.mi-neimenggu:before { content: "\e115";} /* 内蒙古 */
+
+.mi-liaoning:before { content: "\e121";} /* 辽宁 */
+.mi-jilin:before { content: "\e122";} /* 吉林 */
+.mi-heilongjiang:before { content: "\e123";} /* 黑龙江 */
+
+.mi-shanghai:before { content: "\e131";} /* 上海 */
+.mi-jiangsu:before { content: "\e132";} /* 江苏 */
+.mi-zhejiang:before { content: "\e133";} /* 浙江 */
+.mi-anhui:before { content: "\e134";} /* 安徽 */
+.mi-fujian:before { content: "\e135";} /* 福建 */
+.mi-jiangxi:before { content: "\e136";} /* 江西 */
+.mi-shandong:before { content: "\e137";} /* 山东 */
+
+.mi-henan:before { content: "\e141";} /* 河南 */
+.mi-hubei:before { content: "\e142";} /* 湖北 */
+.mi-hunan:before { content: "\e143";} /* 湖南 */
+.mi-guangdong:before { content: "\e144";} /* 广东 */
+.mi-guangxi:before { content: "\e145";} /* 广西 */
+.mi-hainan:before { content: "\e146";} /* 海南 */
+
+.mi-chongqing:before { content: "\e150";} /* 重庆 */
+.mi-sichuan:before { content: "\e151";} /* 四川 */
+.mi-guizhou:before { content: "\e152";} /* 贵州 */
+.mi-yunnan:before { content: "\e153";} /* 云南 */
+.mi-xizang:before { content: "\e154";} /* 西藏 */
+
+.mi-shaanxi:before { content: "\e161";} /* 陕西 */
+.mi-gansu:before { content: "\e162";} /* 甘肃 */
+.mi-qinghai:before { content: "\e163";} /* 青海 */
+.mi-ningxia:before { content: "\e164";} /* 宁夏 */
+.mi-xinjiang:before { content: "\e165";} /* 新疆 */
+
+.mi-taiwan:before { content: "\e171";} /* 台湾 */
+.mi-hongkong:before { content: "\e181";} /* 香港 */
+.mi-macau:before { content: "\e182";} /* 澳门 */

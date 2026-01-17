@@ -3,7 +3,7 @@ title: 重庆
 linkTitle: 重庆
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西南, weight: 31, pre: "<i class='fa-solid fa-c'></i>" }}
+menu: {main: {parent: 西南, weight: 31, pre: "<i class='mi mi-chongqing'></i>" }}
 ---
 
 <details open class="doc-details">

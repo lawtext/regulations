@@ -3,7 +3,7 @@ title: 北京
 linkTitle: 北京
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华北, weight: 10, pre: "<i class='fa-solid fa-b'></i>" }}
+menu: {main: {parent: 华北, weight: 10, pre: "<i class='mi mi-beijing'></i>" }}
 ---
 
 <details open class="doc-details">

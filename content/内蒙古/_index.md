@@ -3,7 +3,7 @@ title: 内蒙古
 linkTitle: 内蒙古
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华北, weight: 14, pre: "<i class='fa-solid fa-n'></i>" }}
+menu: {main: {parent: 华北, weight: 14, pre: "<i class='mi mi-neimenggu'></i>" }}
 ---
 
 <details open class="doc-details">

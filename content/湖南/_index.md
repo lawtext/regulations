@@ -3,7 +3,7 @@ title: 湖南
 linkTitle: 湖南
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华南, weight: 27, pre: "<i class='fa-solid fa-h'></i>" }}
+menu: {main: {parent: 华中, weight: 27, pre: "<i class='mi mi-hunan'></i>" }}
 ---
 
 <details open class="doc-details">

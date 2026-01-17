@@ -3,7 +3,7 @@ title: 江西
 linkTitle: 江西
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华东, weight: 23, pre: "<i class='fa-solid fa-j'></i>" }}
+menu: {main: {parent: 华东, weight: 23, pre: "<i class='mi mi-jiangxi'></i>" }}
 ---
 
 <details open class="doc-details">

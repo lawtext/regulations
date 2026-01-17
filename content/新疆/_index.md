@@ -3,7 +3,7 @@ title: 新疆
 linkTitle: 新疆
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西北, weight: 40, pre: "<i class='fa-solid fa-x'></i>" }}
+menu: {main: {parent: 西北, weight: 40, pre: "<i class='mi mi-xinjiang'></i>" }}
 ---
 
 <details open class="doc-details">

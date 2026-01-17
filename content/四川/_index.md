@@ -3,7 +3,7 @@ title: 四川
 linkTitle: 四川
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西南, weight: 32, pre: "<i class='fa-solid fa-s'></i>" }}
+menu: {main: {parent: 西南, weight: 32, pre: "<i class='mi mi-sichuan'></i>" }}
 ---
 
 <details open class="doc-details">

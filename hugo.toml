@@ -181,38 +181,44 @@ pageSize = 50 # list页面每页项数
 [[menu.main]]
     name = '华北'
     weight = 20
-    pre = '<i class="fa-regular fa-font-awesome"></i>'
+    pre = '<i class="mi mi-diqu-huabei"></i>'
 
 [[menu.main]]
     name = '东北'
     weight = 30
-    pre = '<i class="fa-regular fa-snowflake"></i>'
+    pre = '<i class="mi mi-diqu-dongbei"></i>'
 
 [[menu.main]]
     name = '华东'
     weight = 40
-    pre = '<i class="fa-regular fa-life-ring"></i>'
+    pre = '<i class="mi mi-diqu-huadong"></i>'
+
+[[menu.main]]
+    name = '华中'
+    weight = 50
+    pre = '<i class="mi mi-diqu-huazhong"></i>'
 
 [[menu.main]]
     name = '华南'
-    weight = 50
-    pre = '<i class="fa-regular fa-paper-plane"></i>'
+    weight = 55
+    pre = '<i class="mi mi-diqu-huanan"></i>'
+
 
 [[menu.main]]
     name = '西南'
     weight = 60
-    pre = '<i class="fa-regular fa-gem"></i>'
+    pre = '<i class="mi mi-diqu-xinan"></i>'
 
 [[menu.main]]
     name = '西北'
     weight = 70
-    pre = '<i class="fa-regular fa-cloud"></i>'
+    pre = '<i class="mi mi-diqu-xibei"></i>'
 
 [[menu.main]]
     name = '全国法律'
     weight = 90
     url = 'https://lawtext.github.io/'
-    pre = '<i class="fa-solid fa-scale-balanced"></i>'
+    pre = '<i class="mi mi-cn1"></i>'
 
 # [services]
 # [services.disqus]

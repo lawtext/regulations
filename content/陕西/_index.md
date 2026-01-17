@@ -3,7 +3,7 @@ title: 陕西
 linkTitle: 陕西
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 西北, weight: 36, pre: "<i class='fa-solid fa-s'></i>" }}
+menu: {main: {parent: 西北, weight: 36, pre: "<i class='mi mi-shaanxi'></i>" }}
 ---
 
 <details open class="doc-details">

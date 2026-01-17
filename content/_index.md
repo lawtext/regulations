@@ -4,24 +4,21 @@ description: "法律法规在线阅读"
 # menu: {main: {weight: 1, pre: "<i class='fa-solid fa-home'></i>" }}
 ---
 
-{{< blocks/cover title="中国法律法规" image_anchor="top" height="full" >}}
+{{< blocks/cover title="中国地方法规" image_anchor="top" height="full" >}}
 
 {{% param description %}}
 {.display-6}
 
-{.p-initial .my-2}
+<!-- {.p-initial .my-2} -->
 
-<br/>
-
-<br/>
-
-{{< blocks/link-down color="info" >}}
+<!-- {{< blocks/link-down color="info" >}} -->
 {{< /blocks/cover >}}
 
 {{% blocks/lead %}}
 
 {{% /blocks/lead %}}
 
+<!-- 
 {{% blocks/section type="row" %}}
 
 {{% /blocks/section %}}
@@ -29,6 +26,7 @@ description: "法律法规在线阅读"
 {{% blocks/section type="row" %}}
 
 {{% /blocks/section %}}
+-->
 
 {{% blocks/section %}}
 

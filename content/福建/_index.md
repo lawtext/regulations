@@ -3,7 +3,7 @@ title: 福建
 linkTitle: 福建
 type: "docs"
 cascade: { type: "docs" }
-menu: {main: {parent: 华东, weight: 22, pre: "<i class='fa-solid fa-f'></i>" }}
+menu: {main: {parent: 华东, weight: 22, pre: "<i class='mi mi-fujian'></i>" }}
 ---
 
 <details open class="doc-details">
