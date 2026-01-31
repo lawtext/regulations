@@ -7,7 +7,7 @@ menu: {main: {parent: 东北, weight: 15, pre: "<i class='mi mi-liaoning'></i>" 
 ---
 
 <details open class="doc-details">
-<summary><strong>辽宁</strong>统计：共有793件，其中有效共681件</summary>
+<summary><strong>辽宁</strong>统计：共有792件，其中有效共675件</summary>
 {{% pageinfo %}}
 
 **辽宁**说明：
@@ -16,10 +16,12 @@ menu: {main: {parent: 东北, weight: 15, pre: "<i class='mi mi-liaoning'></i>" 
 
 ---
 
-**辽宁** 相关文本共有793件，其中：
+**辽宁** 相关文本共有792件，其中：
 
-- 有效: 681
-- 未知: 112
+- 有效: 675
+- 已修改: 2
+- 已废止: 2
+- 未知: 113
 
 {{% /pageinfo %}}
 </details>

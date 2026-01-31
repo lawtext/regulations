@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 24, pre: "<i class='mi mi-shandong'></i>" 
 ---
 
 <details open class="doc-details">
-<summary><strong>山东</strong>统计：共有851件，其中有效共784件</summary>
+<summary><strong>山东</strong>统计：共有848件，其中有效共780件</summary>
 {{% pageinfo %}}
 
 **山东**说明：
@@ -16,9 +16,10 @@ menu: {main: {parent: 华东, weight: 24, pre: "<i class='mi mi-shandong'></i>" 
 
 ---
 
-**山东** 相关文本共有851件，其中：
+**山东** 相关文本共有848件，其中：
 
-- 有效: 784
+- 有效: 780
+- 已修改: 1
 - 未知: 67
 
 {{% /pageinfo %}}

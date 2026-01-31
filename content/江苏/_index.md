@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 19, pre: "<i class='mi mi-jiangsu'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>江苏</strong>统计：共有925件，其中有效共815件</summary>
+<summary><strong>江苏</strong>统计：共有930件，其中有效共806件</summary>
 {{% pageinfo %}}
 
 **江苏**说明：
@@ -16,10 +16,12 @@ menu: {main: {parent: 华东, weight: 19, pre: "<i class='mi mi-jiangsu'></i>" }
 
 ---
 
-**江苏** 相关文本共有925件，其中：
+**江苏** 相关文本共有930件，其中：
 
-- 有效: 815
-- 未知: 110
+- 有效: 806
+- 已修改: 11
+- 已废止: 2
+- 未知: 111
 
 {{% /pageinfo %}}
 </details>

@@ -7,7 +7,7 @@ menu: {main: {parent: 华中, weight: 27, pre: "<i class='mi mi-hunan'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>湖南</strong>统计：共有549件，其中有效共517件</summary>
+<summary><strong>湖南</strong>统计：共有549件，其中有效共514件</summary>
 {{% pageinfo %}}
 
 **湖南**说明：
@@ -18,7 +18,9 @@ menu: {main: {parent: 华中, weight: 27, pre: "<i class='mi mi-hunan'></i>" }}
 
 **湖南** 相关文本共有549件，其中：
 
-- 有效: 517
+- 有效: 514
+- 已修改: 2
+- 已废止: 1
 - 未知: 32
 
 {{% /pageinfo %}}

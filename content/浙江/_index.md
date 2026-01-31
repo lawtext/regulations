@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 20, pre: "<i class='mi mi-zhejiang'></i>" 
 ---
 
 <details open class="doc-details">
-<summary><strong>浙江</strong>统计：共有719件，其中有效共664件</summary>
+<summary><strong>浙江</strong>统计：共有724件，其中有效共659件</summary>
 {{% pageinfo %}}
 
 **浙江**说明：
@@ -16,10 +16,12 @@ menu: {main: {parent: 华东, weight: 20, pre: "<i class='mi mi-zhejiang'></i>" 
 
 ---
 
-**浙江** 相关文本共有719件，其中：
+**浙江** 相关文本共有724件，其中：
 
-- 有效: 664
-- 未知: 55
+- 有效: 659
+- 已修改: 4
+- 已废止: 2
+- 未知: 59
 
 {{% /pageinfo %}}
 </details>

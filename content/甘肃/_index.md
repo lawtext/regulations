@@ -7,7 +7,7 @@ menu: {main: {parent: 西北, weight: 37, pre: "<i class='mi mi-gansu'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>甘肃</strong>统计：共有467件，其中有效共410件</summary>
+<summary><strong>甘肃</strong>统计：共有469件，其中有效共410件</summary>
 {{% pageinfo %}}
 
 **甘肃**说明：
@@ -16,9 +16,11 @@ menu: {main: {parent: 西北, weight: 37, pre: "<i class='mi mi-gansu'></i>" }}
 
 ---
 
-**甘肃** 相关文本共有467件，其中：
+**甘肃** 相关文本共有469件，其中：
 
 - 有效: 410
+- 已修改: 1
+- 已废止: 1
 - 未知: 57
 
 {{% /pageinfo %}}
