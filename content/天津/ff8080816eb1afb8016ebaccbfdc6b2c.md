@@ -12,7 +12,6 @@ urls:
   - https://flk.npc.gov.cn/detail?id=ff8080816eb1afb8016ebaccbfdc6b2c
 ---
 
-
 **天津市不动产登记条例**
 
 （2016年7月29日天津市第十六届人民代表大会常务委员会第二十七次会议通过

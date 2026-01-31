@@ -12,7 +12,6 @@ urls:
   - https://flk.npc.gov.cn/detail?id=8baebccf0ad44ffc8e5e8fa68aaa1b99
 ---
 
-
 **南京市人民代表大会常务委员会关于废止《南京市民办中小学条例》的决定**
 
 > （2022年6月29日南京市第十六届人民代表大会

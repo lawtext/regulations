@@ -12,7 +12,6 @@ urls:
   - https://flk.npc.gov.cn/detail?id=2c90e5ba6a291d8f016bbaa9e8ae2cee
 ---
 
-
 **吉林省河湖长制条例**
 
 > （2019年3月28日吉林省第十三届人民代表大会常务委员会第十次会议通过）

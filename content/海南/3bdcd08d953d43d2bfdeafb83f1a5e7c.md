@@ -12,7 +12,6 @@ urls:
   - https://flk.npc.gov.cn/detail?id=3bdcd08d953d43d2bfdeafb83f1a5e7c
 ---
 
-
 **海南省人民代表大会常务委员会关于修改《海南省红树林保护规定》的决定**
 
 > （2023年11月24日海南省第七届人民代表大会

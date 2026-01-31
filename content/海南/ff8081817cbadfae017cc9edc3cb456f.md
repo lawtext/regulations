@@ -12,7 +12,6 @@ urls:
   - https://flk.npc.gov.cn/detail?id=ff8081817cbadfae017cc9edc3cb456f
 ---
 
-
 **海南自由贸易港反消费欺诈规定**
 
 > （2021年9月29日海南省第六届人民代表大会常务委员会第三十次会议通过）
