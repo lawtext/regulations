@@ -1,12 +1,12 @@
 name: GitHub Pages
 
 on:
-  # push:
-  #   branches:
-  #     - main
-  #   paths-ignore:
-  #     - "README.md"
-  #     - ".gitignore"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+      - ".gitignore"
   workflow_dispatch:
   schedule:
     - cron: "5 12 15 * *"
@@ -90,7 +90,7 @@ jobs:
         uses: pnpm/action-setup@v4
 
       - run: pnpm install
-      - run: hugo mod get -u && hugo mod tidy
+      - run: hugo mod tidy
 
       - name: Build Site
         run: |
