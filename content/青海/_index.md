@@ -7,7 +7,7 @@ menu: {main: {parent: 西北, weight: 38, pre: "<i class='mi mi-qinghai'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>青海</strong>统计：共有377件，其中有效共348件</summary>
+<summary><strong>青海</strong>统计：共有378件，其中有效共349件</summary>
 {{% pageinfo %}}
 
 **青海**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 西北, weight: 38, pre: "<i class='mi mi-qinghai'></i>" }
 
 ---
 
-**青海** 相关文本共有377件，其中：
+**青海** 相关文本共有378件，其中：
 
-- 有效: 348
+- 有效: 349
 - 未知: 29
 
 {{% /pageinfo %}}

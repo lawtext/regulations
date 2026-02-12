@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 14, pre: "<i class='mi mi-neimenggu'></i>"
 ---
 
 <details open class="doc-details">
-<summary><strong>内蒙古</strong>统计：共有557件，其中有效共433件</summary>
+<summary><strong>内蒙古</strong>统计：共有557件，其中有效共432件</summary>
 {{% pageinfo %}}
 
 **内蒙古**说明：
@@ -18,8 +18,8 @@ menu: {main: {parent: 华北, weight: 14, pre: "<i class='mi mi-neimenggu'></i>"
 
 **内蒙古** 相关文本共有557件，其中：
 
-- 有效: 433
-- 已修改: 2
+- 有效: 432
+- 已修改: 3
 - 未知: 122
 
 {{% /pageinfo %}}
