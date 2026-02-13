@@ -53,7 +53,6 @@ quality = 75
 anchor = "Smart"
 
 # Language configuration
-
 # [languages]
 # [languages.en]
 # languageName ="English"
@@ -95,6 +94,7 @@ section = ["HTML"]
 # Everything below this are Site Params
 [params]
 reading_speed = 400
+defaultSource = "国家法律法规数据库"
 
 # privacy_policy = "https://policies.google.com/privacy"
 # Enable syntax highlighting and copy buttons on code blocks with Prism
@@ -122,12 +122,10 @@ reading_speed = 400
 # offlineSearchMaxResults = 25
 # [params.search.algolia]
 
-
 [params.copyright]
 authors = "建站 [Hugo](https://gohugo.io/) | 主题 [Docsy](https://www.docsy.dev/)"
 from_year = 2026
-to_year = "present"
-
+# to_year = "present"
 
 # User interface configuration
 [params.ui]
@@ -156,53 +154,52 @@ pageSize = 100 # list页面每页项数
 
 [menu]
 [[menu.main]]
-    name = '主页'
-    pageRef = '/'
-    weight = 10
-    pre = '<i class="fa-regular fa-house"></i>'
+name = '主页'
+pageRef = '/'
+weight = 10
+pre = '<i class="fa-regular fa-house"></i>'
 
 [[menu.main]]
-    name = '华北'
-    weight = 20
-    pre = '<i class="mi mi-diqu-huabei"></i>'
+name = '华北'
+weight = 20
+pre = '<i class="mi mi-diqu-huabei"></i>'
 
 [[menu.main]]
-    name = '东北'
-    weight = 30
-    pre = '<i class="mi mi-diqu-dongbei"></i>'
+name = '东北'
+weight = 30
+pre = '<i class="mi mi-diqu-dongbei"></i>'
 
 [[menu.main]]
-    name = '华东'
-    weight = 40
-    pre = '<i class="mi mi-diqu-huadong"></i>'
+name = '华东'
+weight = 40
+pre = '<i class="mi mi-diqu-huadong"></i>'
 
 [[menu.main]]
-    name = '华中'
-    weight = 50
-    pre = '<i class="mi mi-diqu-huazhong"></i>'
+name = '华中'
+weight = 50
+pre = '<i class="mi mi-diqu-huazhong"></i>'
 
 [[menu.main]]
-    name = '华南'
-    weight = 55
-    pre = '<i class="mi mi-diqu-huanan"></i>'
-
-
-[[menu.main]]
-    name = '西南'
-    weight = 60
-    pre = '<i class="mi mi-diqu-xinan"></i>'
+name = '华南'
+weight = 55
+pre = '<i class="mi mi-diqu-huanan"></i>'
 
 [[menu.main]]
-    name = '西北'
-    weight = 70
-    pre = '<i class="mi mi-diqu-xibei"></i>'
+name = '西南'
+weight = 60
+pre = '<i class="mi mi-diqu-xinan"></i>'
 
 [[menu.main]]
-    name = '全国法律'
-    weight = 90
-    url = 'https://lawtext.github.io/'
-    pre = '<i class="mi mi-cn1"></i>'
+name = '西北'
+weight = 70
+pre = '<i class="mi mi-diqu-xibei"></i>'
 
-# [services]
-# [services.disqus]
-# shortname = ''
+[[menu.main]]
+name = '全国法律'
+weight = 90
+url = 'https://lawtext.github.io/'
+pre = '<i class="fa-solid fa-hammer"></i>'
+
+[services]
+[services.disqus]
+shortname = 'law'
