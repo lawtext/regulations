@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 10, pre: "<i class='mi mi-beijing'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>北京</strong>统计：共有195件，其中有效共182件</summary>
+<summary><strong>北京</strong>统计：共有196件，其中有效共183件</summary>
 {{% pageinfo %}}
 
 **北京**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 华北, weight: 10, pre: "<i class='mi mi-beijing'></i>" }
 
 ---
 
-**北京** 相关文本共有195件，其中：
+**北京** 相关文本共有196件，其中：
 
-- 有效: 182
+- 有效: 183
 - 未知: 13
 
 {{% /pageinfo %}}

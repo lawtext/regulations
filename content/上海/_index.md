@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 18, pre: "<i class='mi mi-shanghai'></i>" 
 ---
 
 <details open class="doc-details">
-<summary><strong>上海</strong>统计：共有299件，其中有效共266件</summary>
+<summary><strong>上海</strong>统计：共有315件，其中有效共266件</summary>
 {{% pageinfo %}}
 
 **上海**说明：
@@ -16,10 +16,12 @@ menu: {main: {parent: 华东, weight: 18, pre: "<i class='mi mi-shanghai'></i>" 
 
 ---
 
-**上海** 相关文本共有299件，其中：
+**上海** 相关文本共有315件，其中：
 
 - 有效: 266
-- 未知: 33
+- 已修改: 10
+- 已废止: 2
+- 未知: 37
 
 {{% /pageinfo %}}
 </details>

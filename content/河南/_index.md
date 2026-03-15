@@ -7,7 +7,7 @@ menu: {main: {parent: 华中, weight: 25, pre: "<i class='mi mi-henan'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>河南</strong>统计：共有634件，其中有效共593件</summary>
+<summary><strong>河南</strong>统计：共有637件，其中有效共593件</summary>
 {{% pageinfo %}}
 
 **河南**说明：
@@ -16,10 +16,11 @@ menu: {main: {parent: 华中, weight: 25, pre: "<i class='mi mi-henan'></i>" }}
 
 ---
 
-**河南** 相关文本共有634件，其中：
+**河南** 相关文本共有637件，其中：
 
 - 有效: 593
 - 已修改: 6
+- 已废止: 3
 - 未知: 35
 
 {{% /pageinfo %}}
