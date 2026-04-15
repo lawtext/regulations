@@ -7,7 +7,7 @@ menu: {main: {parent: 华北, weight: 13, pre: "<i class='mi mi-shanxi'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>山西</strong>统计：共有618件，其中有效共571件</summary>
+<summary><strong>山西</strong>统计：共有626件，其中有效共570件</summary>
 {{% pageinfo %}}
 
 **山西**说明：
@@ -16,10 +16,12 @@ menu: {main: {parent: 华北, weight: 13, pre: "<i class='mi mi-shanxi'></i>" }}
 
 ---
 
-**山西** 相关文本共有618件，其中：
+**山西** 相关文本共有626件，其中：
 
-- 有效: 571
-- 未知: 47
+- 有效: 570
+- 已修改: 6
+- 已废止: 2
+- 未知: 48
 
 {{% /pageinfo %}}
 </details>
