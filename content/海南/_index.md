@@ -7,7 +7,7 @@ menu: {main: {parent: 华南, weight: 30, pre: "<i class='mi mi-hainan'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>海南</strong>统计：共有449件，其中有效共390件</summary>
+<summary><strong>海南</strong>统计：共有450件，其中有效共391件</summary>
 {{% pageinfo %}}
 
 **海南**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 华南, weight: 30, pre: "<i class='mi mi-hainan'></i>" }}
 
 ---
 
-**海南** 相关文本共有449件，其中：
+**海南** 相关文本共有450件，其中：
 
-- 有效: 390
+- 有效: 391
 - 已修改: 10
 - 已废止: 3
 - 未知: 46

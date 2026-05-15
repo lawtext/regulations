@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 23, pre: "<i class='mi mi-jiangxi'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>江西</strong>统计：共有431件，其中有效共399件</summary>
+<summary><strong>江西</strong>统计：共有432件，其中有效共400件</summary>
 {{% pageinfo %}}
 
 **江西**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 华东, weight: 23, pre: "<i class='mi mi-jiangxi'></i>" }
 
 ---
 
-**江西** 相关文本共有431件，其中：
+**江西** 相关文本共有432件，其中：
 
-- 有效: 399
+- 有效: 400
 - 已修改: 8
 - 未知: 24
 

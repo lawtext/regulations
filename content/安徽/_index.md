@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 21, pre: "<i class='mi mi-anhui'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>安徽</strong>统计：共有633件，其中有效共569件</summary>
+<summary><strong>安徽</strong>统计：共有634件，其中有效共570件</summary>
 {{% pageinfo %}}
 
 **安徽**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 华东, weight: 21, pre: "<i class='mi mi-anhui'></i>" }}
 
 ---
 
-**安徽** 相关文本共有633件，其中：
+**安徽** 相关文本共有634件，其中：
 
-- 有效: 569
+- 有效: 570
 - 已修改: 5
 - 已废止: 7
 - 未知: 52

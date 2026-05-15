@@ -7,7 +7,7 @@ menu: {main: {parent: 西南, weight: 34, pre: "<i class='mi mi-yunnan'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>云南</strong>统计：共有693件，其中有效共641件</summary>
+<summary><strong>云南</strong>统计：共有695件，其中有效共643件</summary>
 {{% pageinfo %}}
 
 **云南**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 西南, weight: 34, pre: "<i class='mi mi-yunnan'></i>" }}
 
 ---
 
-**云南** 相关文本共有693件，其中：
+**云南** 相关文本共有695件，其中：
 
-- 有效: 641
+- 有效: 643
 - 未知: 52
 
 {{% /pageinfo %}}

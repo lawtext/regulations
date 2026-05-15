@@ -7,7 +7,7 @@ menu: {main: {parent: 华东, weight: 22, pre: "<i class='mi mi-fujian'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>福建</strong>统计：共有655件，其中有效共593件</summary>
+<summary><strong>福建</strong>统计：共有656件，其中有效共594件</summary>
 {{% pageinfo %}}
 
 **福建**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 华东, weight: 22, pre: "<i class='mi mi-fujian'></i>" }}
 
 ---
 
-**福建** 相关文本共有655件，其中：
+**福建** 相关文本共有656件，其中：
 
-- 有效: 593
+- 有效: 594
 - 未知: 62
 
 {{% /pageinfo %}}

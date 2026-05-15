@@ -7,7 +7,7 @@ menu: {main: {parent: 西北, weight: 40, pre: "<i class='mi mi-xinjiang'></i>" 
 ---
 
 <details open class="doc-details">
-<summary><strong>新疆</strong>统计：共有466件，其中有效共416件</summary>
+<summary><strong>新疆</strong>统计：共有467件，其中有效共417件</summary>
 {{% pageinfo %}}
 
 **新疆**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 西北, weight: 40, pre: "<i class='mi mi-xinjiang'></i>" 
 
 ---
 
-**新疆** 相关文本共有466件，其中：
+**新疆** 相关文本共有467件，其中：
 
-- 有效: 416
+- 有效: 417
 - 已废止: 5
 - 未知: 45
 

@@ -7,7 +7,7 @@ menu: {main: {parent: 西北, weight: 36, pre: "<i class='mi mi-shaanxi'></i>" }
 ---
 
 <details open class="doc-details">
-<summary><strong>陕西</strong>统计：共有458件，其中有效共401件</summary>
+<summary><strong>陕西</strong>统计：共有459件，其中有效共402件</summary>
 {{% pageinfo %}}
 
 **陕西**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 西北, weight: 36, pre: "<i class='mi mi-shaanxi'></i>" }
 
 ---
 
-**陕西** 相关文本共有458件，其中：
+**陕西** 相关文本共有459件，其中：
 
-- 有效: 401
+- 有效: 402
 - 已修改: 17
 - 已废止: 1
 - 未知: 39

@@ -7,7 +7,7 @@ menu: {main: {parent: 西南, weight: 35, pre: "<i class='mi mi-xizang'></i>" }}
 ---
 
 <details open class="doc-details">
-<summary><strong>西藏</strong>统计：共有242件，其中有效共223件</summary>
+<summary><strong>西藏</strong>统计：共有244件，其中有效共225件</summary>
 {{% pageinfo %}}
 
 **西藏**说明：
@@ -16,9 +16,9 @@ menu: {main: {parent: 西南, weight: 35, pre: "<i class='mi mi-xizang'></i>" }}
 
 ---
 
-**西藏** 相关文本共有242件，其中：
+**西藏** 相关文本共有244件，其中：
 
-- 有效: 223
+- 有效: 225
 - 已修改: 2
 - 未知: 17
 
